@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_eco_board"
+        android:icon="@drawable/joystick"
+        android:title="EcoBoard" />
+
+    <item
+        android:id="@+id/nav_more"
+        android:icon="@drawable/menu"
+        android:title="More" />
+</menu>

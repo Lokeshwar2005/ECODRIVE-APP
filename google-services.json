@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "702306612327",
+    "project_id": "eco-drive-86ad4",
+    "storage_bucket": "eco-drive-86ad4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702306612327:android:03dcf06efa4faca2f6d0c2",
+        "android_client_info": {
+          "package_name": "com.example.androidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702306612327-paqqdjh2aoqfvborl30cg4e3tckdtr6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIAHN27nqUia7mByGvc7hFdfL1ITLom4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702306612327-paqqdjh2aoqfvborl30cg4e3tckdtr6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702306612327:android:1ea673a8ca628f0cf6d0c2",
+        "android_client_info": {
+          "package_name": "com.example.androidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702306612327-paqqdjh2aoqfvborl30cg4e3tckdtr6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIAHN27nqUia7mByGvc7hFdfL1ITLom4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702306612327-paqqdjh2aoqfvborl30cg4e3tckdtr6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

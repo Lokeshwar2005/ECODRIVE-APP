@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ecodrivecol">#DDFBBB</color>
+    <color name="leaf_green">#005902</color>
+    <color name="teal_700">#018786</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="green">#8BC34A</color>
+    <color name="greenPrimary">#2E7D32</color>
+    <color name="greenLight">#A5D6A7</color>
+    <color name="greenDark">#1B5E20</color>
+    <color name="background">#F0F8F5</color>
+    <color name="yellow">#FFC801</color>
+    <color name="grey">#6D6B6B</color>
+    <color name="red">#F01000</color>
+
+
+</resources>

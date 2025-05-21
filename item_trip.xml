@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginBottom="8dp"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:padding="16dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tripLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Trip"
+            android:textSize="16sp"
+            android:textColor="@color/greenPrimary"
+            android:fontFamily="sans-serif-medium" />
+
+        <TextView
+            android:id="@+id/fuelSavedText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fuel Saved"
+            android:textSize="14sp"
+            android:textColor="@android:color/black" />
+
+        <TextView
+            android:id="@+id/ecoScoreText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Eco Score"
+            android:textSize="14sp"
+            android:textColor="@android:color/black" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
